@@ -1,0 +1,12 @@
+{
+  "name": "swedish-chef-telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot to Cheferize your darkest desires",
+  "main": "index.js",
+  "author": "Rostislav Raykov <z@zbrox.org>",
+  "license": "MIT",
+  "dependencies": {
+    "cheferizeIt": "^1.0.4",
+    "telegraf": "^3.17.1"
+  }
+}
